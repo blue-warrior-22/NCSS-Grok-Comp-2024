@@ -1,5 +1,3 @@
-#THIS IS INCOMPLETE
-
 limitn = int(input("Limit: "))
 number = 0
 i = 0

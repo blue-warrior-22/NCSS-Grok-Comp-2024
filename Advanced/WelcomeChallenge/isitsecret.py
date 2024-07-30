@@ -28,7 +28,6 @@ CODES = {
   ' ': ' ',
 }
 
-
 msg = input("Message: ")
 msg = msg.upper()
 nmsg = ''
