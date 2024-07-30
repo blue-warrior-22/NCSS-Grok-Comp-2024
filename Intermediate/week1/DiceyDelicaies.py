@@ -10,7 +10,7 @@ def choose_delicacy(roll):
     d="Chinese"
   elif roll == 20:
     d="Thai"
-  da = "You should order "+ d
+  da = "You should order "+ d + "."
   return da
   
 

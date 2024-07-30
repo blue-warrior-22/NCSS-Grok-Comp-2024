@@ -1,5 +1,5 @@
 #getting user input on bicycle type 
-mountain_bike = input("Do you have a mountain bike (yes/no)?")
+mountain_bike = input("Do you have a mountain bike (yes/no)? ")
 
 #making a decision based on bicycle type
 if mountain_bike.lower() == "no":

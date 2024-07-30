@@ -6,12 +6,12 @@ def divisibility_checker(dividend, divisor):
         c = False
     return c
 
-while True:
-    b = int(input("Enter an integer Dividend: "))
-    c = int(input("Enter an integer Divisor: "))
-    a = divisibility_checker(b,c)
-    if a == True:
-        print(f"{b} is a multiple of {c}")
-    else:
-        print(f"{b} is not a multiple of {c}")
-    
+
+b = int(input("Enter an integer dividend: "))
+c = int(input("Enter an integer divisor: "))
+a = divisibility_checker(b,c)
+if a == True:
+  print(f"{b} is a multiple of {c}")
+else:
+  print(f"{b} is not a multiple of {c}")
+     
