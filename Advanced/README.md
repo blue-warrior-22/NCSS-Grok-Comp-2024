@@ -1,6 +1,6 @@
 # Advanced Course Description:
 
-## Welcome Challange, This challange is the first challange you complete before starting the week 1 course
+## Welcome Challenge, This challenge is the first challenge you complete before starting the week 1 course
 
 1. Triangular Numbers
 2. Functional Hashtags
