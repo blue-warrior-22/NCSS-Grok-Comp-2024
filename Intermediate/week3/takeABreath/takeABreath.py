@@ -1,3 +1,8 @@
+#
+#
+# THIS CODE IS NOT COMPLETED
+#
+#
 best_time = 0
 goal_time = 60
 held_times = []
