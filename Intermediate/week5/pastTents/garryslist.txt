@@ -1,0 +1,9 @@
+Chair
+Apples
+Backpack
+Tent
+Sleeping bag
+Chair
+Sleeping bag
+Tent
+Backpack
